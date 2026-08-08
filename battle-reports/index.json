@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T04:23:57Z",
+  "updatedAt": "2026-08-08T04:56:35Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -12,38 +12,51 @@
     },
     {
       "battleId": "172936958966279",
-      "decodedAt": "2026-08-08T04:03:17.564545+00:00",
-      "bytes": 1705991,
-      "sha256": "87012997660b041a0ade6a0e5f5800c1a0875bef7fd1b3ca8da0098d45794a16",
-      "path": "reports/172936958966279.json"
+      "decodedAt": "2026-08-08T04:47:51.489207+00:00",
+      "bytes": 1210988,
+      "sha256": "efa2192442a91125bbf9fa5ba0402757fe9576c860cc9d8711936227a2936739",
+      "path": "reports/172936958966279.json",
+      "title": "Ruffles / 98th vs Melon / DDYYDS"
     },
     {
       "battleId": "172936958966281",
-      "decodedAt": "2026-08-08T04:03:17.841414+00:00",
-      "bytes": 2435021,
-      "sha256": "f897a5edc2389d1bab9d338bf91cd30a82a2f0f7b3444e2e175a0c588002b52a",
-      "path": "reports/172936958966281.json"
+      "decodedAt": "2026-08-08T04:47:55.992437+00:00",
+      "bytes": 2330425,
+      "sha256": "2d22a0a2f9430e90452e4eccc9174bb7167b0c0d7e85f5f16dd91691574d2c82",
+      "path": "reports/172936958966281.json",
+      "title": "Ruffles / 99th vs Melon / DDYYDS"
     },
     {
       "battleId": "172936958982703",
-      "decodedAt": "2026-08-08T04:03:18.118263+00:00",
-      "bytes": 2149293,
-      "sha256": "a0b49e1977ca9fc06560d317644f3766ad5817877a4ea33acf3d9e6320ac0e8a",
-      "path": "reports/172936958982703.json"
+      "decodedAt": "2026-08-08T04:47:47.157150+00:00",
+      "bytes": 1419585,
+      "sha256": "a09b740268ab3b4e94b3a6a83d8ce5286d41ec2a965fb6285c290cc6a7420c44",
+      "path": "reports/172936958982703.json",
+      "title": "Ruffles / 98th vs Infinite Legion / Saber"
     },
     {
       "battleId": "172936958982705",
-      "decodedAt": "2026-08-08T04:03:18.339897+00:00",
-      "bytes": 1935288,
-      "sha256": "20185c3951d59987ebf20898ad6767c3f85cb8d3a8b62faa26a371a14bf16870",
-      "path": "reports/172936958982705.json"
+      "decodedAt": "2026-08-08T04:47:43.125184+00:00",
+      "bytes": 1933903,
+      "sha256": "278470fe71c7c05197e89e587cbd811d189c32aaef6695fe4333fb648269a637",
+      "path": "reports/172936958982705.json",
+      "title": "Ruffles / 99th vs Infinite Legion / Saber"
     },
     {
       "battleId": "172936958985955",
-      "decodedAt": "2026-08-08T04:03:18.625366+00:00",
-      "bytes": 2316852,
-      "sha256": "1cc9547d590b1018140f97d504b88c2f3aa76390c3ce2308cbf79ccc3f194b3a",
-      "path": "reports/172936958985955.json"
+      "decodedAt": "2026-08-08T04:49:13.894636+00:00",
+      "bytes": 1638954,
+      "sha256": "5973c90258aed0ff881379bb4b52e6225ad68e6d06ca991aadea9a403b17f5f2",
+      "path": "reports/172936958985955.json",
+      "title": "Ruffles / 98th vs CoSMoS / sss"
+    },
+    {
+      "battleId": "45436559039341",
+      "decodedAt": "2026-08-08T04:41:32.860508+00:00",
+      "bytes": 50657,
+      "sha256": "dda2846aa3844fd8ae0c810bb439119828bafbb0397c0bdba495ed27ee162b40",
+      "path": "reports/45436559039341.json",
+      "title": "UmiG3Destiny / Fleet 1 vs Hunting Target / Defense Platform"
     }
   ]
 }
