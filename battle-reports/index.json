@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T03:54:30Z",
+  "updatedAt": "2026-08-08T04:00:09Z",
   "reports": [
     {
       "battleId": "172936958885540",
-      "title": "Sample engagement",
       "decodedAt": "2026-07-30T03:49:46.166780+00:00",
       "bytes": 426514,
       "sha256": "498b48f266bca07ec800366e159d2aff717b530e4deef1aa1ccdf6397a3198ba",
-      "path": "reports/172936958885540.json"
+      "path": "reports/172936958885540.json",
+      "title": "Sample engagement"
+    },
+    {
+      "battleId": "172936958966279",
+      "decodedAt": "2026-08-08T03:40:32.429525+00:00",
+      "bytes": 710703,
+      "sha256": "591d788d2de14f54383cb75f7df3040e43227e6f5149c26b2e994de8e39507c6",
+      "path": "reports/172936958966279.json"
+    },
+    {
+      "battleId": "172936958966281",
+      "decodedAt": "2026-08-08T03:39:01.362307+00:00",
+      "bytes": 949128,
+      "sha256": "e8780e9fb8d218b68f996da96e6571a3d3b3be027696e78b286d18eaf461c560",
+      "path": "reports/172936958966281.json"
+    },
+    {
+      "battleId": "172936958982703",
+      "decodedAt": "2026-08-08T03:44:50.009503+00:00",
+      "bytes": 965211,
+      "sha256": "58699420e0d2f265b159812d8aeb505abfdbe6eece635f1daf347fdedf0ecfab",
+      "path": "reports/172936958982703.json"
+    },
+    {
+      "battleId": "172936958982705",
+      "decodedAt": "2026-08-08T03:44:46.630973+00:00",
+      "bytes": 924232,
+      "sha256": "7912aa58d8d805d3195eb062db9eb0b557a4b16a2a2a848a6ead0f4c7835268f",
+      "path": "reports/172936958982705.json"
+    },
+    {
+      "battleId": "172936958985955",
+      "decodedAt": "2026-08-08T03:44:28.443872+00:00",
+      "bytes": 838242,
+      "sha256": "eef25f450a9b821106aae621594d255d346e1d2489af44792a038a9a8249e169",
+      "path": "reports/172936958985955.json"
     }
   ]
 }
