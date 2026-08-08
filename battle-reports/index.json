@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-08T03:49:41Z",
+  "reports": [
+    {
+      "battleId": "172936958885540",
+      "title": null,
+      "decodedAt": "2026-07-30T03:49:46.166780+00:00",
+      "bytes": 412737,
+      "sha256": "74021e3d1ffa8895eb44f28622afce5d9279248d16292633c9889ed55051a56f",
+      "path": "reports/172936958885540.json"
+    }
+  ]
+}
