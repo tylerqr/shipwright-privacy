@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T04:56:35Z",
+  "updatedAt": "2026-08-08T05:30:39Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -44,9 +44,9 @@
     },
     {
       "battleId": "172936958985955",
-      "decodedAt": "2026-08-08T04:49:13.894636+00:00",
-      "bytes": 1638954,
-      "sha256": "5973c90258aed0ff881379bb4b52e6225ad68e6d06ca991aadea9a403b17f5f2",
+      "decodedAt": "2026-08-08T05:30:35.898468+00:00",
+      "bytes": 1669196,
+      "sha256": "896d2adf3b038c3061fbca98a862200acee1de8e9caa43f16f9bb41571a59b99",
       "path": "reports/172936958985955.json",
       "title": "Ruffles / 98th vs CoSMoS / sss"
     },
