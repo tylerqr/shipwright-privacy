@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T05:32:56Z",
+  "updatedAt": "2026-08-09T22:59:49Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -49,6 +49,54 @@
       "sha256": "054a41e3c0ac6e5eeb8bd3778ba1f9216e3df4f1b591814f6116d55968fa05fb",
       "path": "reports/172936958985955.json",
       "title": "Ruffles / 98th vs CoSMoS / sss"
+    },
+    {
+      "battleId": "172936958985982",
+      "decodedAt": "2026-08-09T22:59:48.871929+00:00",
+      "bytes": 1939728,
+      "sha256": "033eed4f484bbad19abc866c5bdaaf56609b4fcfba6fdb47b1f3c003944af6b3",
+      "path": "reports/172936958985982.json",
+      "title": "Ruffles / 99th vs CoSMoS / s"
+    },
+    {
+      "battleId": "172936958985983",
+      "decodedAt": "2026-08-09T22:59:44.542029+00:00",
+      "bytes": 428257,
+      "sha256": "d0acfb81d89934a0dae8c7e42f1f4bd15b324c9960becbb74c5e242047b1c66c",
+      "path": "reports/172936958985983.json",
+      "title": "Ruffles / 98th vs CoSMoS / s"
+    },
+    {
+      "battleId": "172936958996707",
+      "decodedAt": "2026-08-09T22:59:28.979537+00:00",
+      "bytes": 1894936,
+      "sha256": "c611a0cda3d06bcd4c9d93e17ff455eddd78d2100dac3946aa686d8cc302cad1",
+      "path": "reports/172936958996707.json",
+      "title": "Ruffles / 98th vs Fareoh / Fleet 9"
+    },
+    {
+      "battleId": "172936958996709",
+      "decodedAt": "2026-08-09T22:59:33.452876+00:00",
+      "bytes": 2375173,
+      "sha256": "ee70f38b51f9af215b71e9504aea9e8bfc918b503a291988a333fa9faeb1516b",
+      "path": "reports/172936958996709.json",
+      "title": "Ruffles / 99th vs Fareoh / Fleet 9"
+    },
+    {
+      "battleId": "172936959003012",
+      "decodedAt": "2026-08-09T22:59:24.581839+00:00",
+      "bytes": 1019630,
+      "sha256": "247d26545927345414150b59367b806d8500b928db29032593d7dae5a7893ddc",
+      "path": "reports/172936959003012.json",
+      "title": "Ruffles / 98th vs Hamzawi / UNN Arkadia"
+    },
+    {
+      "battleId": "172936959003014",
+      "decodedAt": "2026-08-09T22:59:20.418183+00:00",
+      "bytes": 2182791,
+      "sha256": "f3b3e7535786ef3dc7cceef57a5b646e441c56405729a48a1351f8166a6ba54b",
+      "path": "reports/172936959003014.json",
+      "title": "Ruffles / 99th vs Hamzawi / UNN Arkadia"
     },
     {
       "battleId": "45436559039341",
