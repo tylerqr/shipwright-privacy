@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T17:52:28Z",
+  "updatedAt": "2026-08-13T17:56:49Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -124,25 +124,25 @@
     },
     {
       "battleId": "172936959010611",
-      "decodedAt": "2026-08-13T17:49:27.404420+00:00",
-      "bytes": 284007,
-      "sha256": "355338efc9d39ae5e653ba8d371e64b07f6484986e43a380b3cb02363e88b477",
+      "decodedAt": "2026-08-13T17:56:48.284597+00:00",
+      "bytes": 283931,
+      "sha256": "5dbf34d43980092af69f2ce39ec59b0f3f9cb97c903b6a608f33239e70720faa",
       "path": "reports/172936959010611.json",
       "title": "Ruffles / Fleet 5 vs Wandering Privateer"
     },
     {
       "battleId": "172936959011335",
-      "decodedAt": "2026-08-13T17:49:31.942412+00:00",
-      "bytes": 437274,
-      "sha256": "41d8e8b4ace350c419021abfae3be8c38e51e2299cc84ac303da386765d474e2",
+      "decodedAt": "2026-08-13T17:56:47.718127+00:00",
+      "bytes": 437198,
+      "sha256": "affa554003adaf800f88aab9b89cb57b6615422231273bf08a1001bea0c899b9",
       "path": "reports/172936959011335.json",
       "title": "Ruffles / Fleet 5 vs Wandering Privateer"
     },
     {
       "battleId": "172936959023162",
-      "decodedAt": "2026-08-13T17:49:36.509890+00:00",
-      "bytes": 803073,
-      "sha256": "d97876dd644d5c0d53039f8daac8339f8457cbdb23af9afbe13d325314816e54",
+      "decodedAt": "2026-08-13T17:56:46.416051+00:00",
+      "bytes": 802997,
+      "sha256": "26e2c8b2fb8cbcefada10cb3dc5c629bd8a69612fb6351130ba1491c9ea12f64",
       "path": "reports/172936959023162.json",
       "title": "Ruffles / Smolls vs Wandering Privateer"
     },
@@ -164,17 +164,17 @@
     },
     {
       "battleId": "172936959039060",
-      "decodedAt": "2026-08-13T17:49:22.902130+00:00",
-      "bytes": 766910,
-      "sha256": "cb1bebafbc5720b5adb6e1956a8caf2c1ccc470a108f7ad8d5447ef3c28c078a",
+      "decodedAt": "2026-08-13T17:56:47.124994+00:00",
+      "bytes": 766834,
+      "sha256": "3159b480b9409c077f3cafee29789edec4b3676471cdff71f8b8eb1a334911a7",
       "path": "reports/172936959039060.json",
       "title": "Ruffles / Smolls vs Wandering Privateer"
     },
     {
       "battleId": "45436559039341",
-      "decodedAt": "2026-08-08T05:32:51.817452+00:00",
-      "bytes": 52167,
-      "sha256": "d3fff2cbd65c6c7f04596535d65264be61496a93698fb4a2011fa35674261cf8",
+      "decodedAt": "2026-08-13T17:56:48.835514+00:00",
+      "bytes": 51941,
+      "sha256": "43f5d7878adc06b355e73455cf8b20b9911e35481010e5ec2da0b2491171f1e7",
       "path": "reports/45436559039341.json",
       "title": "UmiG3Destiny / Fleet 1 vs Hunting Target / Defense Platform"
     }
