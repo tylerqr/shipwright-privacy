@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T18:44:31Z",
+  "updatedAt": "2026-08-13T18:45:23Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -92,9 +92,9 @@
     },
     {
       "battleId": "172936958996728",
-      "decodedAt": "2026-08-13T18:44:21.491436+00:00",
-      "bytes": 2684762,
-      "sha256": "972ed4d4947bd98a85d94c9702f2a026c6daae66f7d916925df816c09ef62f50",
+      "decodedAt": "2026-08-13T18:45:22.826461+00:00",
+      "bytes": 2489823,
+      "sha256": "1d193c29a4412642675cea3f4f1b8bb28cea59d00df11b31cb0751ad6572919b",
       "path": "reports/172936958996728.json",
       "title": "Ruffles / 99th vs Fareoh / Fleet 9"
     },
