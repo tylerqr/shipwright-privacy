@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T18:45:23Z",
+  "updatedAt": "2026-08-13T18:45:38Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -12,169 +12,169 @@
     },
     {
       "battleId": "172936958966279",
-      "decodedAt": "2026-08-13T18:44:18.743677+00:00",
-      "bytes": 1259728,
-      "sha256": "28870c76d75fe65451a5d1f407de42df446c722363e7940df1c218ea0f2687b3",
+      "decodedAt": "2026-08-13T18:45:30.557224+00:00",
+      "bytes": 1148441,
+      "sha256": "9f7a2a002bf6db1f4ab3138a1db5781fbb7ed21b81e1056716b07192bc96c5ea",
       "path": "reports/172936958966279.json",
       "title": "Ruffles / 98th vs Melon / DDYYDS"
     },
     {
       "battleId": "172936958966281",
-      "decodedAt": "2026-08-13T18:44:19.029018+00:00",
-      "bytes": 2430595,
-      "sha256": "7d1990fb1ee23e4bdf6bc9bdfea79fff5b260ef45a0e254482981908a2d04312",
+      "decodedAt": "2026-08-13T18:45:30.901396+00:00",
+      "bytes": 2233626,
+      "sha256": "1fbcddcd5c54ff4fc08d770a83db194aab29bbd281961b18578b671b4d8e64ca",
       "path": "reports/172936958966281.json",
       "title": "Ruffles / 99th vs Melon / DDYYDS"
     },
     {
       "battleId": "172936958982703",
-      "decodedAt": "2026-08-13T18:44:19.314021+00:00",
-      "bytes": 1485790,
-      "sha256": "4b44fc2b96b8530f27c18a26b555d9b88d040616fca37218f919eda5462396cc",
+      "decodedAt": "2026-08-13T18:45:31.309303+00:00",
+      "bytes": 1366807,
+      "sha256": "a4b6832fd8beb94e3c30194a56a4d2acec3a4c299955849581d34bd73929097b",
       "path": "reports/172936958982703.json",
       "title": "Ruffles / 98th vs Infinite Legion / Saber"
     },
     {
       "battleId": "172936958982705",
-      "decodedAt": "2026-08-13T18:44:19.533430+00:00",
-      "bytes": 1959845,
-      "sha256": "912d2e0130245782a4174a0d0a014c042a9da4b52bb9b2060aca4e5af0b1db35",
+      "decodedAt": "2026-08-13T18:45:31.640254+00:00",
+      "bytes": 1903253,
+      "sha256": "02b47e632879a68cfe3b16aee960c6e574b503661e8eba5a3bb7c73efb297dc3",
       "path": "reports/172936958982705.json",
       "title": "Ruffles / 99th vs Infinite Legion / Saber"
     },
     {
       "battleId": "172936958985955",
-      "decodedAt": "2026-08-13T18:44:19.858488+00:00",
-      "bytes": 1759463,
-      "sha256": "759985fdd8ea04ace9445444718b699fd52b67142df67528b94d2c60dfc77e63",
+      "decodedAt": "2026-08-13T18:45:31.998562+00:00",
+      "bytes": 1527915,
+      "sha256": "21b6f78d6b0564480ee17f3a6d223e60ca442ed5d2f232b844df0c45da35160d",
       "path": "reports/172936958985955.json",
       "title": "Ruffles / 98th vs CoSMoS / sss"
     },
     {
       "battleId": "172936958985957",
-      "decodedAt": "2026-08-13T18:44:20.135099+00:00",
-      "bytes": 2291943,
-      "sha256": "7e85bc2f0bf2409c16adf4f7c59942e3871d4338ee62042e0c8ea7387777b90a",
+      "decodedAt": "2026-08-13T18:45:32.381258+00:00",
+      "bytes": 2146969,
+      "sha256": "5b65ba2769aa679c365b16f749168a525746f4b6423d01de4e36bb988d05bc07",
       "path": "reports/172936958985957.json",
       "title": "Ruffles / 99th vs CoSMoS / sss"
     },
     {
       "battleId": "172936958985982",
-      "decodedAt": "2026-08-13T18:44:20.379633+00:00",
-      "bytes": 1939728,
-      "sha256": "ac3322e14586622a0fe2e321c2c273a08c8ee920f36b9c1a3b0b9f587b6a7a00",
+      "decodedAt": "2026-08-13T18:45:32.745858+00:00",
+      "bytes": 1889715,
+      "sha256": "29fed43abe82a431e62ddb5e160b6565f852408d057e62bab6c5daae27937277",
       "path": "reports/172936958985982.json",
       "title": "Ruffles / 99th vs CoSMoS / s"
     },
     {
       "battleId": "172936958985983",
-      "decodedAt": "2026-08-13T18:44:20.581237+00:00",
-      "bytes": 428257,
-      "sha256": "842a33c8a7d72d1ab3c1d8cd7f6bca7ec25fd60afab2a2fff26c9ded688b6004",
+      "decodedAt": "2026-08-13T18:45:33.072968+00:00",
+      "bytes": 389423,
+      "sha256": "d9c73c6b94f76f5e85c5d183e315365245de502084b934b2208a453856c6475b",
       "path": "reports/172936958985983.json",
       "title": "Ruffles / 98th vs CoSMoS / s"
     },
     {
       "battleId": "172936958996707",
-      "decodedAt": "2026-08-13T18:44:20.870751+00:00",
-      "bytes": 1895990,
-      "sha256": "2104a17810f019bc31ac41f2581ca46caae8a2d06d80a3136461a41367755e33",
+      "decodedAt": "2026-08-13T18:45:33.359340+00:00",
+      "bytes": 1668606,
+      "sha256": "6ce0cfb009b03266f1e28c84f5f6e6add35ca8031b456feafdd3d31b5b927979",
       "path": "reports/172936958996707.json",
       "title": "Ruffles / 98th vs Fareoh / Fleet 9"
     },
     {
       "battleId": "172936958996709",
-      "decodedAt": "2026-08-13T18:44:21.158577+00:00",
-      "bytes": 2375173,
-      "sha256": "5795b75af14ffa6ef3d4a55597a5a76021bf8216a67ca240ec3b6d55f0ac45db",
+      "decodedAt": "2026-08-13T18:45:33.753554+00:00",
+      "bytes": 2208517,
+      "sha256": "cc7c41324aca54c28440576594b5aab6d5df4fefe70c4b00680c93b779e86de0",
       "path": "reports/172936958996709.json",
       "title": "Ruffles / 99th vs Fareoh / Fleet 9"
     },
     {
       "battleId": "172936958996728",
-      "decodedAt": "2026-08-13T18:45:22.826461+00:00",
+      "decodedAt": "2026-08-13T18:45:34.190628+00:00",
       "bytes": 2489823,
-      "sha256": "1d193c29a4412642675cea3f4f1b8bb28cea59d00df11b31cb0751ad6572919b",
+      "sha256": "713bba8e6e99a38579c9a800f78cfcab53230c436bead5a0d4a6f5a6f4ec0619",
       "path": "reports/172936958996728.json",
       "title": "Ruffles / 99th vs Fareoh / Fleet 9"
     },
     {
       "battleId": "172936958996729",
-      "decodedAt": "2026-08-13T18:44:21.796465+00:00",
-      "bytes": 1409790,
-      "sha256": "8c880a23d8897f1a6a0b04bee0db3bdc77c126d519edbe9bd964ae93b9aa6180",
+      "decodedAt": "2026-08-13T18:45:34.645401+00:00",
+      "bytes": 1187260,
+      "sha256": "4995146b0858c659c857a27ffa6302ec256768fdb950f905b7a129d383971f4f",
       "path": "reports/172936958996729.json",
       "title": "Ruffles / 98th vs Fareoh / Fleet 9"
     },
     {
       "battleId": "172936959003012",
-      "decodedAt": "2026-08-13T18:44:22.021296+00:00",
-      "bytes": 1019630,
-      "sha256": "e298d96c3af8898d92796ab51b309aacee4a058851847773865de4622176d9ae",
+      "decodedAt": "2026-08-13T18:45:35.178312+00:00",
+      "bytes": 944452,
+      "sha256": "c004415d2d7b5da83a12d033245f268fe2bc836aaa227b8d76e7d317874abddb",
       "path": "reports/172936959003012.json",
       "title": "Ruffles / 98th vs Hamzawi / UNN Arkadia"
     },
     {
       "battleId": "172936959003014",
-      "decodedAt": "2026-08-13T18:44:22.262480+00:00",
-      "bytes": 2182791,
-      "sha256": "7e218e73e2694889b745dd15a62be617f479e2eaf59f1ff3cf434e41b30e7d25",
+      "decodedAt": "2026-08-13T18:45:35.504977+00:00",
+      "bytes": 2084349,
+      "sha256": "8d7845a182e61630164c8b27ffb10cb7d524ada6dc634af31f5b2d9d7eb798d0",
       "path": "reports/172936959003014.json",
       "title": "Ruffles / 99th vs Hamzawi / UNN Arkadia"
     },
     {
       "battleId": "172936959010611",
-      "decodedAt": "2026-08-13T18:44:22.458686+00:00",
-      "bytes": 283931,
-      "sha256": "62e128c74ab1642636232d7068b7ff96323a34989d3347a792ffd7be9402547d",
+      "decodedAt": "2026-08-13T18:45:35.889094+00:00",
+      "bytes": 260075,
+      "sha256": "35bd4daaa2d55c65762da0ed8de6ed8fa804e7af07bbffaabae7f0597f0504ce",
       "path": "reports/172936959010611.json",
       "title": "Ruffles / Fleet 5 vs Wandering Privateer"
     },
     {
       "battleId": "172936959011335",
-      "decodedAt": "2026-08-13T18:44:22.628409+00:00",
-      "bytes": 437198,
-      "sha256": "fa749feda61f23d22ad515adf3a6d48e571eb90c679d38395625391159321664",
+      "decodedAt": "2026-08-13T18:45:36.130246+00:00",
+      "bytes": 397459,
+      "sha256": "ea4f587d424c2fcf4783e47744541b379d0d422f7f773b5ef8b929f1fae3b5ea",
       "path": "reports/172936959011335.json",
       "title": "Ruffles / Fleet 5 vs Wandering Privateer"
     },
     {
       "battleId": "172936959023162",
-      "decodedAt": "2026-08-13T18:44:22.813287+00:00",
-      "bytes": 805073,
-      "sha256": "f73348572c4b48cb92165d5816fd10e503b2079368ab9a48358855deab3f74f6",
+      "decodedAt": "2026-08-13T18:45:36.385698+00:00",
+      "bytes": 714630,
+      "sha256": "fffd5df4fcc8e1ed799b1d9afb19aab3ad855a3c112f889f998a770264b93b71",
       "path": "reports/172936959023162.json",
       "title": "Ruffles / Smolls vs Wandering Privateer"
     },
     {
       "battleId": "172936959031382",
-      "decodedAt": "2026-08-13T18:44:23.148738+00:00",
-      "bytes": 2447556,
-      "sha256": "dadad9257216becf46254006a64cb9f68270ddf307c1aa2480d5a59b8c574ad6",
+      "decodedAt": "2026-08-13T18:45:36.746512+00:00",
+      "bytes": 2132979,
+      "sha256": "a1df443b18c52908f8c7c340b82f5240387be8c0491d8e7e4fc5fd0909de99fa",
       "path": "reports/172936959031382.json",
       "title": "Ruffles / 98th vs Sepia LLC / Skibidi"
     },
     {
       "battleId": "172936959031384",
-      "decodedAt": "2026-08-13T18:44:23.531879+00:00",
-      "bytes": 2753747,
-      "sha256": "30aa512972d071518695b4912e0f79e39612b9d83dbc4cbb90889767fcb52862",
+      "decodedAt": "2026-08-13T18:45:37.174892+00:00",
+      "bytes": 2592341,
+      "sha256": "c36c061f842bd14ac230643abc16a60dcccd32a7a2659bf295f62c7a6c0b7043",
       "path": "reports/172936959031384.json",
       "title": "Ruffles / 99th vs Sepia LLC / Skibidi"
     },
     {
       "battleId": "172936959039060",
-      "decodedAt": "2026-08-13T18:44:23.773566+00:00",
-      "bytes": 768565,
-      "sha256": "43e4c4d6b8df14f56fdb2c74e518fa65224a7d9d7fdb7f3f13074a541fd37693",
+      "decodedAt": "2026-08-13T18:45:37.555367+00:00",
+      "bytes": 677857,
+      "sha256": "44cac92f23dcad8ff46fedcd53f4dbbae0723a31895c79c7e5fbd4df53ac0a0c",
       "path": "reports/172936959039060.json",
       "title": "Ruffles / Smolls vs Wandering Privateer"
     },
     {
       "battleId": "45436559039341",
-      "decodedAt": "2026-08-13T18:44:23.943973+00:00",
-      "bytes": 51941,
-      "sha256": "359ad6464a80069b6dff768064ebd83167e836172db2c7c52cc46a961d277fd9",
+      "decodedAt": "2026-08-13T18:45:37.808074+00:00",
+      "bytes": 45593,
+      "sha256": "13ed64fa47e68016f24254bd1e582bb46250d6b6877521bcf22937fb1f8c3f89",
       "path": "reports/45436559039341.json",
       "title": "UmiG3Destiny / Fleet 1 vs Hunting Target / Defense Platform"
     }
