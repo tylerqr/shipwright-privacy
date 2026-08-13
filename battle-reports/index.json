@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T17:49:36Z",
+  "updatedAt": "2026-08-13T17:51:13Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -145,6 +145,14 @@
       "sha256": "d97876dd644d5c0d53039f8daac8339f8457cbdb23af9afbe13d325314816e54",
       "path": "reports/172936959023162.json",
       "title": "Ruffles / Smolls vs Wandering Privateer"
+    },
+    {
+      "battleId": "172936959031382",
+      "decodedAt": "2026-08-13T17:51:13.040497+00:00",
+      "bytes": 2449265,
+      "sha256": "65476e9719e105280139f5d652989412e9b9676d7f965c125a8ab5a952dd3a64",
+      "path": "reports/172936959031382.json",
+      "title": "Ruffles / 98th vs Sepia LLC / Skibidi"
     },
     {
       "battleId": "172936959039060",
