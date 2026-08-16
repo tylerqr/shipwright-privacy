@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T02:56:06Z",
+  "updatedAt": "2026-08-16T02:57:31Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -187,12 +187,36 @@
       "title": "Ruffles / 99th vs Boy Kisser / Furry Kisser"
     },
     {
+      "battleId": "172936959066139",
+      "decodedAt": "2026-08-16T02:57:30.637060+00:00",
+      "bytes": 838464,
+      "sha256": "206ca82b05f3137fe6110cc5a3f9f7b883034265a1177f756871e37012daf4d3",
+      "path": "reports/172936959066139.json",
+      "title": "Ruffles / 98th vs Shinobu / 1st Form"
+    },
+    {
       "battleId": "172936959066140",
       "decodedAt": "2026-08-16T02:55:56.136517+00:00",
       "bytes": 2152971,
       "sha256": "95af1d8acf38b479cc74b2bc80d5fe8b3a165fed60e2de475e6a316cb68d187f",
       "path": "reports/172936959066140.json",
       "title": "Ruffles / 99th vs Shinobu / 1st Form"
+    },
+    {
+      "battleId": "172936959066403",
+      "decodedAt": "2026-08-16T02:57:20.762783+00:00",
+      "bytes": 1457041,
+      "sha256": "ce145e392dbd9d9b901c881f83322611e24252f58a958e03b4d05f2a2edf87b3",
+      "path": "reports/172936959066403.json",
+      "title": "Ruffles / 98th vs Tengen / 2nd Form"
+    },
+    {
+      "battleId": "172936959066405",
+      "decodedAt": "2026-08-16T02:57:25.759840+00:00",
+      "bytes": 3043589,
+      "sha256": "919ca926d4b162f97025fc2fd1e84026a44a09cff7cb64b68f67842f51b6cf12",
+      "path": "reports/172936959066405.json",
+      "title": "Ruffles / 99th vs Tengen / 2nd Form"
     },
     {
       "battleId": "45436559039341",
