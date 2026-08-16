@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T18:45:38Z",
+  "updatedAt": "2026-08-16T02:56:06Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -169,6 +169,30 @@
       "sha256": "44cac92f23dcad8ff46fedcd53f4dbbae0723a31895c79c7e5fbd4df53ac0a0c",
       "path": "reports/172936959039060.json",
       "title": "Ruffles / Smolls vs Wandering Privateer"
+    },
+    {
+      "battleId": "172936959054951",
+      "decodedAt": "2026-08-16T02:56:05.784250+00:00",
+      "bytes": 1255342,
+      "sha256": "886a56e99385da3ad991b6b01a1fb9e591f75100914a9606cf7b85bed206ecc8",
+      "path": "reports/172936959054951.json",
+      "title": "Ruffles / 98th vs Boy Kisser / Furry Kisser"
+    },
+    {
+      "battleId": "172936959054953",
+      "decodedAt": "2026-08-16T02:56:01.213034+00:00",
+      "bytes": 2438944,
+      "sha256": "92f261a67c4505b74da9f40d9f4968bff9ba49ab1e71458fd15db0b0add2cee4",
+      "path": "reports/172936959054953.json",
+      "title": "Ruffles / 99th vs Boy Kisser / Furry Kisser"
+    },
+    {
+      "battleId": "172936959066140",
+      "decodedAt": "2026-08-16T02:55:56.136517+00:00",
+      "bytes": 2152971,
+      "sha256": "95af1d8acf38b479cc74b2bc80d5fe8b3a165fed60e2de475e6a316cb68d187f",
+      "path": "reports/172936959066140.json",
+      "title": "Ruffles / 99th vs Shinobu / 1st Form"
     },
     {
       "battleId": "45436559039341",
