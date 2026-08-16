@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T02:57:31Z",
+  "updatedAt": "2026-08-16T17:09:18Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -217,6 +217,14 @@
       "sha256": "919ca926d4b162f97025fc2fd1e84026a44a09cff7cb64b68f67842f51b6cf12",
       "path": "reports/172936959066405.json",
       "title": "Ruffles / 99th vs Tengen / 2nd Form"
+    },
+    {
+      "battleId": "172936959070495",
+      "decodedAt": "2026-08-16T17:09:17.633742+00:00",
+      "bytes": 1308965,
+      "sha256": "2f2ea496815f78f276ded1fc23d0ed32a563c18246867dc37cd33521b0afb55e",
+      "path": "reports/172936959070495.json",
+      "title": "Ruffles / Smolls vs Melon / NamithWhale"
     },
     {
       "battleId": "45436559039341",
