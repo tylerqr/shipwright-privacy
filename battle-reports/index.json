@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T01:06:39Z",
+  "updatedAt": "2026-08-21T11:10:46Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -241,6 +241,30 @@
       "sha256": "3ae6a45ae3e9433305cccde43032ac26da1f3e98a771dfb45bbe55a53f4813a6",
       "path": "reports/172941254199814.json",
       "title": "Phobos / Aphrodite vs Zandaf / owo"
+    },
+    {
+      "battleId": "172971318194256",
+      "decodedAt": "2026-08-21T11:10:36.684575+00:00",
+      "bytes": 829578,
+      "sha256": "82bd00216f0cce08a584e62e4550ea984152e9a994228292295f7907221e8593",
+      "path": "reports/172971318194256.json",
+      "title": "The Gardians / Fleet 3 vs Asladian / tk"
+    },
+    {
+      "battleId": "172971318194372",
+      "decodedAt": "2026-08-21T11:10:41.378831+00:00",
+      "bytes": 1627348,
+      "sha256": "83dd48b790b39559087d2130f4024ca331c360f6b06c606ce15e85e4fcc5aeb8",
+      "path": "reports/172971318194372.json",
+      "title": "The Gardians / Fleet 1 vs guan yu / Xuanwu"
+    },
+    {
+      "battleId": "172971318202691",
+      "decodedAt": "2026-08-21T11:10:46.002102+00:00",
+      "bytes": 1242764,
+      "sha256": "9936c22b144417f9e73db4b764d5e9886dc91bf8116f809784aaedbbd2fb0d72",
+      "path": "reports/172971318202691.json",
+      "title": "The Gardians / Fleet 1 vs Zegadores / Doom"
     }
   ]
 }
