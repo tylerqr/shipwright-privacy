@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T17:09:18Z",
+  "updatedAt": "2026-08-21T00:25:18Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -225,6 +225,22 @@
       "sha256": "2f2ea496815f78f276ded1fc23d0ed32a563c18246867dc37cd33521b0afb55e",
       "path": "reports/172936959070495.json",
       "title": "Ruffles / Smolls vs Melon / NamithWhale"
+    },
+    {
+      "battleId": "172941254199812",
+      "decodedAt": "2026-08-21T00:25:12.965671+00:00",
+      "bytes": 1215076,
+      "sha256": "325644e1b824594c81131a601b12d4b34cfe1be84b174cdd080b9b142ea5a360",
+      "path": "reports/172941254199812.json",
+      "title": "Phobos / Dionysus vs Zandaf / owo"
+    },
+    {
+      "battleId": "172941254199814",
+      "decodedAt": "2026-08-21T00:25:17.748341+00:00",
+      "bytes": 1684145,
+      "sha256": "3ae6a45ae3e9433305cccde43032ac26da1f3e98a771dfb45bbe55a53f4813a6",
+      "path": "reports/172941254199814.json",
+      "title": "Phobos / Aphrodite vs Zandaf / owo"
     },
     {
       "battleId": "45436559039341",
