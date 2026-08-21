@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T00:25:18Z",
+  "updatedAt": "2026-08-21T01:06:39Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -241,14 +241,6 @@
       "sha256": "3ae6a45ae3e9433305cccde43032ac26da1f3e98a771dfb45bbe55a53f4813a6",
       "path": "reports/172941254199814.json",
       "title": "Phobos / Aphrodite vs Zandaf / owo"
-    },
-    {
-      "battleId": "45436559039341",
-      "decodedAt": "2026-08-13T18:45:37.808074+00:00",
-      "bytes": 45593,
-      "sha256": "13ed64fa47e68016f24254bd1e582bb46250d6b6877521bcf22937fb1f8c3f89",
-      "path": "reports/45436559039341.json",
-      "title": "UmiG3Destiny / Fleet 1 vs Hunting Target / Defense Platform"
     }
   ]
 }
