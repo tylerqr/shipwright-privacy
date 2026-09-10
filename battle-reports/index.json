@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T00:42:35Z",
+  "updatedAt": "2026-09-10T00:45:45Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -305,6 +305,54 @@
       "sha256": "6329622e9b9ec9a0dc0814825c08f7a549093bbee9e60f09e7a06784643c8af8",
       "path": "reports/172971318703928.json",
       "title": "The Gardians / Fleet 5 vs KaliMyst / \u0424\u043b\u043e\u0442 5"
+    },
+    {
+      "battleId": "172992792868858",
+      "decodedAt": "2026-09-10T00:45:13.333101+00:00",
+      "bytes": 303996,
+      "sha256": "e3ebc4dc46abc86f0af7e23034535cfeb57787acb5fb9d9e39708e45a99be325",
+      "path": "reports/172992792868858.json",
+      "title": "Four Points / Fleet 4 vs Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172992792870363",
+      "decodedAt": "2026-09-10T00:45:25.775872+00:00",
+      "bytes": 314982,
+      "sha256": "773c3c9b4b986ca484c80d82118a9bc3fa92bef5e45ad4c1853edfc3eb688fa4",
+      "path": "reports/172992792870363.json",
+      "title": "Four Points / Fleet 4 vs Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172992792878482",
+      "decodedAt": "2026-09-10T00:45:35.555625+00:00",
+      "bytes": 344076,
+      "sha256": "616f2007c26deceb1101b17931894d40cbe81a340d35a3ba46b137944a933a4f",
+      "path": "reports/172992792878482.json",
+      "title": "Four Points / Point vs Resource Garrison Fleet"
+    },
+    {
+      "battleId": "172992792878500",
+      "decodedAt": "2026-09-10T00:45:30.731140+00:00",
+      "bytes": 332240,
+      "sha256": "804a7bcae6c01fec003402e11ab88e43362f340b5175782701305928e012e843",
+      "path": "reports/172992792878500.json",
+      "title": "Four Points / Point vs Resource Garrison Fleet"
+    },
+    {
+      "battleId": "172992792887200",
+      "decodedAt": "2026-09-10T00:45:45.017273+00:00",
+      "bytes": 427193,
+      "sha256": "19cf2824aae2a5bc54deaaf9342757f9070aa491b4ecfb91fbc17c0953933a67",
+      "path": "reports/172992792887200.json",
+      "title": "Four Points / Point vs Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172992792887253",
+      "decodedAt": "2026-09-10T00:45:40.324069+00:00",
+      "bytes": 359760,
+      "sha256": "22b954f8b949e4fd27fdcf131b16521e7e95c5dd2638938e569d68e08a2f5fa9",
+      "path": "reports/172992792887253.json",
+      "title": "Four Points / Point vs Armed Privateer Intruder Fleet"
     }
   ]
 }
