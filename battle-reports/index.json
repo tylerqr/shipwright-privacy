@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T23:44:18Z",
+  "updatedAt": "2026-09-16T23:46:08Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -465,6 +465,14 @@
       "sha256": "236b61676cf32306d36185f006fa38194ef8bccd4b3c9372e5cfaea800d31943",
       "path": "reports/172971318874401.json",
       "title": "The Gardians / Fleet 5 vs The Sentry / Fleet 3"
+    },
+    {
+      "battleId": "172971318875634",
+      "decodedAt": "2026-09-16T23:46:06.692577+00:00",
+      "bytes": 71750,
+      "sha256": "0ad6068aa661605362f6efdf68f778139829e6b76513cb154a520f95ab26373f",
+      "path": "reports/172971318875634.json",
+      "title": "The Gardians / Fleet 5 vs The Sentry / Fleet 6"
     },
     {
       "battleId": "172992792868858",
