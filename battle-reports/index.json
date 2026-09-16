@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T22:50:39Z",
+  "updatedAt": "2026-09-16T23:44:18Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -513,6 +513,14 @@
       "sha256": "22b954f8b949e4fd27fdcf131b16521e7e95c5dd2638938e569d68e08a2f5fa9",
       "path": "reports/172992792887253.json",
       "title": "Four Points / Point vs Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172992793105888",
+      "decodedAt": "2026-09-16T23:44:17.687043+00:00",
+      "bytes": 567300,
+      "sha256": "56a11d5851e740ba05993bbfd756002518313cceaa96a05da27fd2c3b78473e7",
+      "path": "reports/172992793105888.json",
+      "title": "Four Points / Point vs Wandering Privateer"
     }
   ]
 }
