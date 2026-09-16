@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T00:45:45Z",
+  "updatedAt": "2026-09-16T00:46:41Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -243,6 +243,62 @@
       "title": "Phobos / Aphrodite vs Zandaf / owo"
     },
     {
+      "battleId": "172962729492887",
+      "decodedAt": "2026-09-16T00:45:03.365005+00:00",
+      "bytes": 1828783,
+      "sha256": "0a7972a0b178160a27475ee287c12f28d9af6e70ce38606550c1458edef10d00",
+      "path": "reports/172962729492887.json",
+      "title": "NightmareKing / Markoth vs Anton Vade / 5thFleet"
+    },
+    {
+      "battleId": "172962729492889",
+      "decodedAt": "2026-09-16T00:44:51.917553+00:00",
+      "bytes": 1649858,
+      "sha256": "df220835e7133a72960f414d80da2a8c6eecc6cea5b561e3edcd19c590b3ecf7",
+      "path": "reports/172962729492889.json",
+      "title": "NightmareKing / Grimm vs Anton Vade / 5thFleet"
+    },
+    {
+      "battleId": "172962729492959",
+      "decodedAt": "2026-09-16T00:44:45.785361+00:00",
+      "bytes": 3382906,
+      "sha256": "ecb1e00cfb8ba776c0929f4783c936043edaa38f010dcb0da70f604318691dbe",
+      "path": "reports/172962729492959.json",
+      "title": "NightmareKing / Grimm vs Anton Vade / Ikaros"
+    },
+    {
+      "battleId": "172962729502544",
+      "decodedAt": "2026-09-16T00:44:38.554119+00:00",
+      "bytes": 1240411,
+      "sha256": "7b562d17b401b40c7e54966c962320e0712229977c055549df6d9a09d2e0ed21",
+      "path": "reports/172962729502544.json",
+      "title": "Bruce Wayne / CALL ME vs Nevermore / Biji Keras"
+    },
+    {
+      "battleId": "172962729502546",
+      "decodedAt": "2026-09-16T00:44:21.164036+00:00",
+      "bytes": 2169040,
+      "sha256": "2ef1531889eaaa1f9ce4af067d2af148c6b23ce588e898aebfc16191152fe3f0",
+      "path": "reports/172962729502546.json",
+      "title": "Bruce Wayne / DEATH vs Nevermore / Biji Keras"
+    },
+    {
+      "battleId": "172962729502614",
+      "decodedAt": "2026-09-16T00:44:33.117220+00:00",
+      "bytes": 2441294,
+      "sha256": "e74fc8ad2b8fc374fca0f0ffc499614f105c226ff6fe88eca14d7920c260199b",
+      "path": "reports/172962729502614.json",
+      "title": "Bruce Wayne / DEATH vs Nevermore / Biji Meledak"
+    },
+    {
+      "battleId": "172962729502615",
+      "decodedAt": "2026-09-16T00:44:27.632852+00:00",
+      "bytes": 953583,
+      "sha256": "c56530c81a6bb16ca37bf50641a6542ca4ea6e0281fb68b17f974c943b2abe43",
+      "path": "reports/172962729502615.json",
+      "title": "Bruce Wayne / CALL ME vs Nevermore / Biji Meledak"
+    },
+    {
       "battleId": "172971318194256",
       "decodedAt": "2026-08-21T11:10:36.684575+00:00",
       "bytes": 829578,
@@ -305,6 +361,94 @@
       "sha256": "6329622e9b9ec9a0dc0814825c08f7a549093bbee9e60f09e7a06784643c8af8",
       "path": "reports/172971318703928.json",
       "title": "The Gardians / Fleet 5 vs KaliMyst / \u0424\u043b\u043e\u0442 5"
+    },
+    {
+      "battleId": "172971318753359",
+      "decodedAt": "2026-09-16T00:46:35.105644+00:00",
+      "bytes": 1330141,
+      "sha256": "e893c86c68e14a1ba6a795e61116d0030b318d89b98f41737e8a968f5dbb202c",
+      "path": "reports/172971318753359.json",
+      "title": "The Gardians / Convention vs k\uc804\ub2e8 / 5\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318753361",
+      "decodedAt": "2026-09-16T00:46:40.379358+00:00",
+      "bytes": 1210769,
+      "sha256": "5a6e94373ee75895d30490104bc3061888fec050ccc668822166e972a77a4b96",
+      "path": "reports/172971318753361.json",
+      "title": "The Gardians / Geneva vs k\uc804\ub2e8 / 5\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318795151",
+      "decodedAt": "2026-09-16T00:45:49.622148+00:00",
+      "bytes": 714891,
+      "sha256": "3fc00c1b23a2308eb70f0557003e3471f59c8b48647f00ec3d2821df3c19442b",
+      "path": "reports/172971318795151.json",
+      "title": "The Gardians / The Gardians vs ApsF3Mask / ApsF3Mask"
+    },
+    {
+      "battleId": "172971318795582",
+      "decodedAt": "2026-09-16T00:45:55.652015+00:00",
+      "bytes": 1077493,
+      "sha256": "1056d9876baefc1a9d01179c2672088085d6d87024f4d49d7a0c400e1e81754a",
+      "path": "reports/172971318795582.json",
+      "title": "The Gardians / The Gardians vs 1234 / 1234"
+    },
+    {
+      "battleId": "172971318795694",
+      "decodedAt": "2026-09-16T00:46:01.192922+00:00",
+      "bytes": 881342,
+      "sha256": "9ddc11a710add0dc6a656acbfa8d7a23c897392c95ccb8788324a3dd98fa64ce",
+      "path": "reports/172971318795694.json",
+      "title": "The Gardians / The Gardians vs SAKAtanpe / SAKAtanpe"
+    },
+    {
+      "battleId": "172971318826602",
+      "decodedAt": "2026-09-16T00:46:14.693512+00:00",
+      "bytes": 929307,
+      "sha256": "ecc60baace05d23ba5d2a7a9b99d2cbbcfd30ba1c2b5d52b00c5d9b3f78069e1",
+      "path": "reports/172971318826602.json",
+      "title": "The Gardians / Geneva vs Rick Hunter / Guarding Fleet 1"
+    },
+    {
+      "battleId": "172971318826605",
+      "decodedAt": "2026-09-16T00:46:08.095020+00:00",
+      "bytes": 509995,
+      "sha256": "d30bae3ead6c40839f49be85a98b12c8df6ad0ba881815cbce49cdc6a17ffce6",
+      "path": "reports/172971318826605.json",
+      "title": "The Gardians / Convention vs Rick Hunter / Guarding Fleet 1"
+    },
+    {
+      "battleId": "172971318837166",
+      "decodedAt": "2026-09-16T00:46:29.971587+00:00",
+      "bytes": 1245024,
+      "sha256": "f9e9e10ecdecc8344c77b9fae056fd66b9c7c455420e019c3e8f4a2b73693f24",
+      "path": "reports/172971318837166.json",
+      "title": "The Gardians / Fleet 14 vs NaNMu / 4\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318837172",
+      "decodedAt": "2026-09-16T00:46:24.783025+00:00",
+      "bytes": 446744,
+      "sha256": "2d84cfe594e4ba00847c6a037eff3a9a332db90dd0f42a53fcc583beeb2e7c24",
+      "path": "reports/172971318837172.json",
+      "title": "The Gardians / Fleet 12 vs NaNMu / 4\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318837269",
+      "decodedAt": "2026-09-16T00:46:19.713858+00:00",
+      "bytes": 539725,
+      "sha256": "ed2dd1ca4f4239c83c2924cda8e08eff1d230e7b5f19646c077970a603803ac3",
+      "path": "reports/172971318837269.json",
+      "title": "The Gardians / Fleet 3 vs NaNMu / 4\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318856630",
+      "decodedAt": "2026-09-16T00:45:12.600694+00:00",
+      "bytes": 496080,
+      "sha256": "67ab09a1e1917ced2e2291671e72fef7c8e7677d72d448c3e22f980437c21d3c",
+      "path": "reports/172971318856630.json",
+      "title": "The Gardians / Geneva vs NaNMu / 5\ud638 \ud568\ub300"
     },
     {
       "battleId": "172992792868858",
