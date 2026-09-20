@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T01:12:49Z",
+  "updatedAt": "2026-09-20T04:05:21Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -299,6 +299,22 @@
       "title": "Bruce Wayne / CALL ME vs Nevermore / Biji Meledak"
     },
     {
+      "battleId": "172962729534864",
+      "decodedAt": "2026-09-20T04:05:01.479811+00:00",
+      "bytes": 2333574,
+      "sha256": "8b891adb83b0bc2464f7f5db06a7eae85677c011ffdd2f7db8e1d386ed2cdebe",
+      "path": "reports/172962729534864.json",
+      "title": "NightmareKing / Markoth vs Anton Vade / 5thFleet"
+    },
+    {
+      "battleId": "172962729534866",
+      "decodedAt": "2026-09-20T04:04:55.712812+00:00",
+      "bytes": 2310519,
+      "sha256": "639149fb2c14fcbca4b464ff481442bf1452de3c70da7e26a880c743b22ead01",
+      "path": "reports/172962729534866.json",
+      "title": "NightmareKing / Grimm vs Anton Vade / 5thFleet"
+    },
+    {
       "battleId": "172971318194256",
       "decodedAt": "2026-08-21T11:10:36.684575+00:00",
       "bytes": 829578,
@@ -481,6 +497,190 @@
       "sha256": "e91653105031dd5bd5571b3d2e4b0b7a8f8253d6ad5913a7f63b57f954592add",
       "path": "reports/172971318875847.json",
       "title": "The Gardians / Fleet 5 vs The Sentry / Fleet 6"
+    },
+    {
+      "battleId": "172971318882788",
+      "decodedAt": "2026-09-20T04:05:20.196909+00:00",
+      "bytes": 2005665,
+      "sha256": "d514687db493f81df0353c38ca094c8d321ffecda0794c91727e4761fdf06d7f",
+      "path": "reports/172971318882788.json",
+      "title": "The Gardians / War vs NaNMu / 7\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318882790",
+      "decodedAt": "2026-09-20T04:04:49.497599+00:00",
+      "bytes": 592222,
+      "sha256": "9f14b55c17b68dcf21b7ba46e321106d70f48a371c5428f1c3b7aea03b10cf1e",
+      "path": "reports/172971318882790.json",
+      "title": "The Gardians / Crimes vs NaNMu / 7\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318882798",
+      "decodedAt": "2026-09-20T04:05:13.726380+00:00",
+      "bytes": 1585302,
+      "sha256": "4ab709d0fd4a62fa7943c50c433d93a0bc9a98c1976a91aabaf0a29b2f32cbf1",
+      "path": "reports/172971318882798.json",
+      "title": "The Gardians / Geneva vs NaNMu / 7\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318882799",
+      "decodedAt": "2026-09-20T04:05:07.203782+00:00",
+      "bytes": 1097464,
+      "sha256": "170d9dcec3cbae99d9971a0c35ec0038fcf8f01940b8e8160a906aa3887111d0",
+      "path": "reports/172971318882799.json",
+      "title": "The Gardians / Convention vs NaNMu / 7\ud638 \ud568\ub300"
+    },
+    {
+      "battleId": "172971318885486",
+      "decodedAt": "2026-09-20T04:04:43.901283+00:00",
+      "bytes": 4143265,
+      "sha256": "1221f7fa35e338da5f88511df6026fa66c3bd287cc74082604c8da546bfe6c87",
+      "path": "reports/172971318885486.json",
+      "title": "JoeMos / Shield vs WellEndress / Attacker II"
+    },
+    {
+      "battleId": "172971318885488",
+      "decodedAt": "2026-09-20T04:03:43.428021+00:00",
+      "bytes": 2582274,
+      "sha256": "ebb8ab75d1b658a5a15a5d9b4121a0632b265b9b2bfdbb3e01b2f3caf151b5da",
+      "path": "reports/172971318885488.json",
+      "title": "JoeMos / Swarm vs WellEndress / Attacker II"
+    },
+    {
+      "battleId": "172971318885507",
+      "decodedAt": "2026-09-20T04:03:37.871792+00:00",
+      "bytes": 808032,
+      "sha256": "e9fdc5df5a341d35acdaea5d6ef54bb8b38607590fb4a2d694b15aac86a5330d",
+      "path": "reports/172971318885507.json",
+      "title": "JoeMos / Merp vs WellEndress II / Attacker II"
+    },
+    {
+      "battleId": "172971318885508",
+      "decodedAt": "2026-09-20T04:03:32.755620+00:00",
+      "bytes": 476133,
+      "sha256": "8bab10cda1b706387c0f4dd98491a21796bcd49af42aba64d5613559caa44365",
+      "path": "reports/172971318885508.json",
+      "title": "JoeMos / CPew vs WellEndress II / Attacker II"
+    },
+    {
+      "battleId": "172971318885523",
+      "decodedAt": "2026-09-20T04:04:37.891811+00:00",
+      "bytes": 3082290,
+      "sha256": "0db8ed14f6745cb713bbdea59cefd18e6cd2e470322375add1f8639623171792",
+      "path": "reports/172971318885523.json",
+      "title": "JoeMos / Shield vs WellEndress III / Attacker II"
+    },
+    {
+      "battleId": "172971318885534",
+      "decodedAt": "2026-09-20T04:03:10.513675+00:00",
+      "bytes": 2627367,
+      "sha256": "ff8091b2dd504e96c2cc474a657547bebe96459b1d5e188135033840dc18b215",
+      "path": "reports/172971318885534.json",
+      "title": "JoeMos / Swarm vs WellEndress II / Attacker I"
+    },
+    {
+      "battleId": "172971318885535",
+      "decodedAt": "2026-09-20T04:04:25.138297+00:00",
+      "bytes": 1958958,
+      "sha256": "132b67ee7bece70512c9032e20784ef3e467cfc51b64c78604f027229fb04637",
+      "path": "reports/172971318885535.json",
+      "title": "JoeMos / Shield vs WellEndress II / Attacker I"
+    },
+    {
+      "battleId": "172971318885543",
+      "decodedAt": "2026-09-20T04:03:20.928276+00:00",
+      "bytes": 494616,
+      "sha256": "56055de064cc980d7dbfea17f62a5ca69600c086b906dca2e761fb74f2b58788",
+      "path": "reports/172971318885543.json",
+      "title": "JoeMos / Merp vs WellEndress II / Attacker I"
+    },
+    {
+      "battleId": "172971318885544",
+      "decodedAt": "2026-09-20T04:03:15.820416+00:00",
+      "bytes": 285917,
+      "sha256": "4804092007b29e4281ef04aea0a56b327f2364c9b830652d0331014c43c82e77",
+      "path": "reports/172971318885544.json",
+      "title": "JoeMos / CPew vs WellEndress II / Attacker I"
+    },
+    {
+      "battleId": "172971318885550",
+      "decodedAt": "2026-09-20T04:04:19.614625+00:00",
+      "bytes": 1523270,
+      "sha256": "75b1e39a6f5a04c12462b5343125573aa98348a04ee8b69d8511bb5df1a15be0",
+      "path": "reports/172971318885550.json",
+      "title": "JoeMos / Shield vs WellEndress III / Defender II"
+    },
+    {
+      "battleId": "172971318885554",
+      "decodedAt": "2026-09-20T04:03:04.543454+00:00",
+      "bytes": 461680,
+      "sha256": "55a99b80a4773330e74fb9db6e6297dfd77f43113e16ce2436c3aa1bdd463ee1",
+      "path": "reports/172971318885554.json",
+      "title": "JoeMos / Merp vs WellEndress / Attacker I"
+    },
+    {
+      "battleId": "172971318885562",
+      "decodedAt": "2026-09-20T04:04:14.361416+00:00",
+      "bytes": 1444701,
+      "sha256": "34e9cbe41f7d696885c25b5ffc79f0a405c41fbdab05a8eeee0be6cef79e5873",
+      "path": "reports/172971318885562.json",
+      "title": "JoeMos / Shield vs WellEndress / Defender II"
+    },
+    {
+      "battleId": "172971318885573",
+      "decodedAt": "2026-09-20T04:04:09.244626+00:00",
+      "bytes": 1358973,
+      "sha256": "4495e3edd8851e1c1b52961e0787da92d7e859e3c630f2ed8078be22667f6446",
+      "path": "reports/172971318885573.json",
+      "title": "JoeMos / Shield vs WellEndress II / Defender II"
+    },
+    {
+      "battleId": "172971318885585",
+      "decodedAt": "2026-09-20T04:04:03.844680+00:00",
+      "bytes": 1185423,
+      "sha256": "5320c406ff8ed26f158aef16d66e7af958d92d8f889bf5f898bd87993cea4466",
+      "path": "reports/172971318885585.json",
+      "title": "JoeMos / Shield vs WellEndress III / Defender I"
+    },
+    {
+      "battleId": "172971318885593",
+      "decodedAt": "2026-09-20T04:03:58.805892+00:00",
+      "bytes": 851767,
+      "sha256": "d2a05d5832ebbb641c4386c5b84aeed24e4426a7de3b25625ce88645c907161c",
+      "path": "reports/172971318885593.json",
+      "title": "JoeMos / Shield vs WellEndress III / Attacker I"
+    },
+    {
+      "battleId": "172971318885596",
+      "decodedAt": "2026-09-20T04:03:53.687784+00:00",
+      "bytes": 949807,
+      "sha256": "a3b2ffe81c5bc6636254fdd1e75e19ab492617fee0ea1d64a647da29febe8a58",
+      "path": "reports/172971318885596.json",
+      "title": "JoeMos / Shield vs WellEndress / Defender I"
+    },
+    {
+      "battleId": "172971318885618",
+      "decodedAt": "2026-09-20T04:03:48.713940+00:00",
+      "bytes": 565716,
+      "sha256": "11b47b25acc6bc17f47ed0732d894411d49aa2e63a4fff14617496f0a3fff346",
+      "path": "reports/172971318885618.json",
+      "title": "JoeMos / Shield vs WellEndress II / Defender I"
+    },
+    {
+      "battleId": "172971318899961",
+      "decodedAt": "2026-09-20T04:02:52.786436+00:00",
+      "bytes": 1941027,
+      "sha256": "bd5a3a026ce6be27f5462f6f7cbfca8d5d7e9727cc988e4ca373c8594ca12862",
+      "path": "reports/172971318899961.json",
+      "title": "The Gardians / Geneva vs \ucee4\ud53c\uc6b0\uc720 / \ud0f1"
+    },
+    {
+      "battleId": "172971318899963",
+      "decodedAt": "2026-09-20T04:02:47.485012+00:00",
+      "bytes": 1248547,
+      "sha256": "28ff5e5d6f9d0fd7cd33d6213ee96bff1a757adea23ba82c09b9df94aefdcff8",
+      "path": "reports/172971318899963.json",
+      "title": "The Gardians / Convention vs \ucee4\ud53c\uc6b0\uc720 / \ud0f1"
     },
     {
       "battleId": "172992792868858",
