@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T02:28:01Z",
+  "updatedAt": "2026-09-21T02:33:51Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -739,6 +739,22 @@
       "title": "Four Points / Point vs Wandering Privateer"
     },
     {
+      "battleId": "172997087748810",
+      "decodedAt": "2026-09-21T02:33:10.805850+00:00",
+      "bytes": 89929,
+      "sha256": "3319baef2de8dcb3fdea85bfb25633849d23cca6d042bbc044fc3e96f5798997",
+      "path": "reports/172997087748810.json",
+      "title": "Ruffles / Beep boop vs Wandering Privateer"
+    },
+    {
+      "battleId": "172997087816690",
+      "decodedAt": "2026-09-21T02:33:22.834906+00:00",
+      "bytes": 41892,
+      "sha256": "d042aea8ecd50c49a3c6c18fc3494fbb5bcfe44a62b422c9e27c4f680a6e9361",
+      "path": "reports/172997087816690.json",
+      "title": "Ruffles / Fleet 2 vs Privateer Vanguard Fleet"
+    },
+    {
       "battleId": "172997087821505",
       "decodedAt": "2026-09-21T02:24:49.134612+00:00",
       "bytes": 58003,
@@ -795,6 +811,14 @@
       "title": "Ace67 / Fleet 4 vs Intel Exchange Team"
     },
     {
+      "battleId": "172997087891722",
+      "decodedAt": "2026-09-21T02:33:28.180173+00:00",
+      "bytes": 203565,
+      "sha256": "3f41175122f5d35d5f20d3b39e7ce2e6462dd8689f82c97999b62da205e0c848",
+      "path": "reports/172997087891722.json",
+      "title": "Ruffles / Beep boop vs Wandering Privateer"
+    },
+    {
       "battleId": "172997087895548",
       "decodedAt": "2026-09-21T02:27:24.787131+00:00",
       "bytes": 209286,
@@ -843,6 +867,14 @@
       "title": "Ace68 / Fleet 2 vs Intel Exchange Team"
     },
     {
+      "battleId": "172997087897319",
+      "decodedAt": "2026-09-21T02:33:40.100682+00:00",
+      "bytes": 150866,
+      "sha256": "011ff9a88e7514fc2dfe7344e8d679295e4a0d435d2581eb1a0e4c5eba6309fc",
+      "path": "reports/172997087897319.json",
+      "title": "Ruffles / Beep boop vs Armed Privateer Intruder Fleet"
+    },
+    {
       "battleId": "172997087897752",
       "decodedAt": "2026-09-21T02:26:12.537934+00:00",
       "bytes": 260046,
@@ -873,6 +905,22 @@
       "sha256": "3fce41c7b14267226039e45a760f455a95c7ad95467df31ea3cdf8561450917b",
       "path": "reports/172997087898113.json",
       "title": "Ace67 / Fleet 2 vs Intel Exchange Team"
+    },
+    {
+      "battleId": "172997087900873",
+      "decodedAt": "2026-09-21T02:33:45.373506+00:00",
+      "bytes": 257682,
+      "sha256": "b6972d0fdeb056e9fe64741d668ed543f4032f28cfaec153e0733b31a0ae7e79",
+      "path": "reports/172997087900873.json",
+      "title": "Ruffles / Beep boop vs Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172997087901039",
+      "decodedAt": "2026-09-21T02:33:50.613050+00:00",
+      "bytes": 201135,
+      "sha256": "408104573a2a7182f8deecf7338e7b5c507f901b3eff2ba6fa893eec28dc07d8",
+      "path": "reports/172997087901039.json",
+      "title": "Ruffles / Beep boop vs Armed Privateer Intruder Fleet"
     },
     {
       "battleId": "172997087903403",
