@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T02:33:51Z",
+  "updatedAt": "2026-09-29T16:08:04Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -1033,6 +1033,14 @@
       "sha256": "f4ebaa3703806222eca9e587274dc0eb356e0f5b97bd8640c7724d3aec512630",
       "path": "reports/172997087907362.json",
       "title": "Ace67 / Fleet 2 vs Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172997088386918",
+      "decodedAt": "2026-09-29T16:08:03.029674+00:00",
+      "bytes": 992147,
+      "sha256": "2be56a326292a80477d94bdb54726820294257b681ce5db751210795137e9cc6",
+      "path": "reports/172997088386918.json",
+      "title": "Ruffles / Beef vs Large Armed Privateer Intruder Fleet"
     }
   ]
 }
