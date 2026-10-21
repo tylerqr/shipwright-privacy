@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T16:08:04Z",
+  "updatedAt": "2026-10-21T23:00:31Z",
   "reports": [
     {
       "battleId": "172936958885540",
@@ -1041,6 +1041,246 @@
       "sha256": "2be56a326292a80477d94bdb54726820294257b681ce5db751210795137e9cc6",
       "path": "reports/172997088386918.json",
       "title": "Ruffles / Beef vs Large Armed Privateer Intruder Fleet"
+    },
+    {
+      "battleId": "172997090629285",
+      "decodedAt": "2026-10-21T22:58:22.487654+00:00",
+      "bytes": 1295378,
+      "sha256": "485aa272cab52079425a99e50c7f8e16a81169117bab7b3e861d83a811401227",
+      "path": "reports/172997090629285.json",
+      "title": "Ace67 / Super Tank vs Azure Solaria / TF Steel"
+    },
+    {
+      "battleId": "172997090629296",
+      "decodedAt": "2026-10-21T22:58:29.459020+00:00",
+      "bytes": 2019303,
+      "sha256": "3e324a89c93f975ab6552635822e433ba9fc193fa0879763bfa64174cdbe6fe5",
+      "path": "reports/172997090629296.json",
+      "title": "Ace67 / Assault vs CAT Megas Doux / Diamond"
+    },
+    {
+      "battleId": "172997090629475",
+      "decodedAt": "2026-10-21T22:58:35.809646+00:00",
+      "bytes": 1170132,
+      "sha256": "a927b604e9fd3320cd1a1bb9c08ddb4c3fb89d916f78efa33733ddb1651f9d3e",
+      "path": "reports/172997090629475.json",
+      "title": "Ace67 / Assault vs Azure Solaria / TF Steel"
+    },
+    {
+      "battleId": "172997090629483",
+      "decodedAt": "2026-10-21T22:58:42.129603+00:00",
+      "bytes": 423671,
+      "sha256": "023e8507a9bc59ed0a434eb5d46f67b002b12bfbf979870fbabddb9557d9025e",
+      "path": "reports/172997090629483.json",
+      "title": "Ace67 / Super Tank vs Azure Solaria / TF Bone"
+    },
+    {
+      "battleId": "172997090629513",
+      "decodedAt": "2026-10-21T22:58:52.553446+00:00",
+      "bytes": 961086,
+      "sha256": "e2a75fa929467b90cd05a65d95fbf538370839116df59c1e7119c4636ddc504c",
+      "path": "reports/172997090629513.json",
+      "title": "Ace67 / Assault vs Azure Solaria / TF Bone"
+    },
+    {
+      "battleId": "172997090629699",
+      "decodedAt": "2026-10-21T22:58:58.255626+00:00",
+      "bytes": 369977,
+      "sha256": "3559d2cac35011e6801785826f24e7b366a6336d5670ce4f801e48ba143a939a",
+      "path": "reports/172997090629699.json",
+      "title": "Ace67 / Super Tank vs Pukamik / Fleet 2"
+    },
+    {
+      "battleId": "172997090629705",
+      "decodedAt": "2026-10-21T22:59:03.832572+00:00",
+      "bytes": 1001824,
+      "sha256": "9f08062318f0764af7c989e34a90659b9b5a264e82d71047c2f6513928054b1f",
+      "path": "reports/172997090629705.json",
+      "title": "Ace67 / Assault vs Pukamik / Fleet 2"
+    },
+    {
+      "battleId": "172997090714000",
+      "decodedAt": "2026-10-21T22:59:09.696699+00:00",
+      "bytes": 1220543,
+      "sha256": "e197fbd973a92dddc491b04b72af33779c41d62ca5b88eb240f63a30a50aca9a",
+      "path": "reports/172997090714000.json",
+      "title": "Ace67 / Anti Air LOL vs Lit / Phalanx"
+    },
+    {
+      "battleId": "172997090714077",
+      "decodedAt": "2026-10-21T22:59:15.678691+00:00",
+      "bytes": 825087,
+      "sha256": "5c89a9b22a8f87501b18e71c261fe589e414de56a98f24fb1eb61f078c2307ad",
+      "path": "reports/172997090714077.json",
+      "title": "Ace67 / Anti Air LOL vs syxtty / Flota 6"
+    },
+    {
+      "battleId": "172997090723452",
+      "decodedAt": "2026-10-21T23:00:04.837684+00:00",
+      "bytes": 499547,
+      "sha256": "8a56ad9e4a28fca97ef1caa7a890db8d7c76b1dd8e7d8296fad8270df1f7ab97",
+      "path": "reports/172997090723452.json",
+      "title": "Ace68 / Super Tank vs Actum / Hello"
+    },
+    {
+      "battleId": "172997090723591",
+      "decodedAt": "2026-10-21T22:59:30.090288+00:00",
+      "bytes": 1842702,
+      "sha256": "7f32cf490d980f3ad0c9137bf8427be67227d949f0a5ab2a02b028440626eaf5",
+      "path": "reports/172997090723591.json",
+      "title": "Ace67 / Assault vs Actum / N1"
+    },
+    {
+      "battleId": "172997090723594",
+      "decodedAt": "2026-10-21T23:00:10.474975+00:00",
+      "bytes": 536548,
+      "sha256": "843d43949c7313db95ebc75a6117b1f7332665e4352a94bbdf0f1e5daf525f0a",
+      "path": "reports/172997090723594.json",
+      "title": "Ace68 / Super Tank vs Snaki / \u041f\u043a\u043e"
+    },
+    {
+      "battleId": "172997090723607",
+      "decodedAt": "2026-10-21T23:00:16.989612+00:00",
+      "bytes": 2415012,
+      "sha256": "09253f5836bb283daffd9b3f0b74042db42f5ed36b5f328b02c84a052c0dd78b",
+      "path": "reports/172997090723607.json",
+      "title": "Ace68 / Assault vs ParslphaL / Baba Yaga"
+    },
+    {
+      "battleId": "172997090723720",
+      "decodedAt": "2026-10-21T22:59:36.139546+00:00",
+      "bytes": 277100,
+      "sha256": "a9ebe8d6326158db156762a712e6e69ead3eae7c50bc9bbffc40d379cbf25ef2",
+      "path": "reports/172997090723720.json",
+      "title": "Ace67 / Super Tank vs Snaki / \u041f\u043a\u043e"
+    },
+    {
+      "battleId": "172997090723761",
+      "decodedAt": "2026-10-21T23:00:30.011124+00:00",
+      "bytes": 1670605,
+      "sha256": "a4231cbae9820a1b4abc4bbc5fbc77fe7934f9cb882e71bcd78b409d089a4733",
+      "path": "reports/172997090723761.json",
+      "title": "Ace68 / Assault vs Merwise52 / Main"
+    },
+    {
+      "battleId": "172997090723773",
+      "decodedAt": "2026-10-21T22:59:41.810839+00:00",
+      "bytes": 429534,
+      "sha256": "d1310903e96e2ae1981f2725da23f3eb48a7cd901886859e1e12cb2a05e4f1e6",
+      "path": "reports/172997090723773.json",
+      "title": "Ace67 / Super Tank vs \u5de1\u904a\u661f\u6d77 / \u6625"
+    },
+    {
+      "battleId": "172997090723793",
+      "decodedAt": "2026-10-21T22:57:04.498668+00:00",
+      "bytes": 335547,
+      "sha256": "699a525c2eafa8f688171302d29075bdc320e49cddbb8848c5cc6283f9877861",
+      "path": "reports/172997090723793.json",
+      "title": "Ace68 / Super Tank vs Merwise52 / Main"
+    },
+    {
+      "battleId": "172997090723794",
+      "decodedAt": "2026-10-21T22:57:09.909667+00:00",
+      "bytes": 1120301,
+      "sha256": "0a5e12dc15dd574ae56e55ac6dd03bc4a8b5e5437af5c7f283a2a51627ad5360",
+      "path": "reports/172997090723794.json",
+      "title": "Ace68 / Assault vs Merwise52 / Aux"
+    },
+    {
+      "battleId": "172997090723856",
+      "decodedAt": "2026-10-21T22:57:28.554853+00:00",
+      "bytes": 1426155,
+      "sha256": "19bc9eff0ece56c8a987e8b79f7a9497b55887afe64c767f6ba88dd0665cbe18",
+      "path": "reports/172997090723856.json",
+      "title": "Ace68 / Assault vs Snaki / \u04221000"
+    },
+    {
+      "battleId": "172997090723884",
+      "decodedAt": "2026-10-21T22:57:15.434308+00:00",
+      "bytes": 428645,
+      "sha256": "9ecd945f5da5f1c970c585adba2bb3bb404c3f20e34cd023ef64e2a4b9d82784",
+      "path": "reports/172997090723884.json",
+      "title": "Ace68 / Super Tank vs Haki / PVO"
+    },
+    {
+      "battleId": "172997090723910",
+      "decodedAt": "2026-10-21T22:59:52.893481+00:00",
+      "bytes": 1494625,
+      "sha256": "a85dc3407ed3c96602f12927327ae58420fe1c7668ca94f0cfe6f24acdbe65dd",
+      "path": "reports/172997090723910.json",
+      "title": "Ace67 / Assault vs Snaki / \u04221000"
+    },
+    {
+      "battleId": "172997090723968",
+      "decodedAt": "2026-10-21T22:57:34.608546+00:00",
+      "bytes": 1346295,
+      "sha256": "3cea09a301520afa77fc4801b59c29cfedb5216cc163ac2c39b1a1dd7ed22565",
+      "path": "reports/172997090723968.json",
+      "title": "Ace68 / Assault vs Parsiphal / \u042234"
+    },
+    {
+      "battleId": "172997090723991",
+      "decodedAt": "2026-10-21T22:59:58.916893+00:00",
+      "bytes": 429940,
+      "sha256": "510fd87c0dfbfdbfd33c86a20f7f2152aba43daa877e8fe2343cf54eda44b318",
+      "path": "reports/172997090723991.json",
+      "title": "Ace67 / Super Tank vs White Lily / \u042234"
+    },
+    {
+      "battleId": "172997090729319",
+      "decodedAt": "2026-10-21T22:57:40.360104+00:00",
+      "bytes": 1524694,
+      "sha256": "855974ac11949aa0d8741463ae1256170ecd20a17848e36f5e7224e5c7195783",
+      "path": "reports/172997090729319.json",
+      "title": "Ace68 / Assault vs Balding / Fleet 1"
+    },
+    {
+      "battleId": "172997090729324",
+      "decodedAt": "2026-10-21T22:57:46.038814+00:00",
+      "bytes": 2016013,
+      "sha256": "a00ab88c111336eaea023d8a8858485a0d2c65c7761428a4f423109f104e4c37",
+      "path": "reports/172997090729324.json",
+      "title": "Ace68 / Super Tank vs Balding / Fleet 1"
+    },
+    {
+      "battleId": "172997090729427",
+      "decodedAt": "2026-10-21T22:57:59.269047+00:00",
+      "bytes": 1518269,
+      "sha256": "a4477b59b2e332783a45601ac40d375b8d9a938f04eb873e6347e30116534675",
+      "path": "reports/172997090729427.json",
+      "title": "Ace68 / Super Tank vs Hackinem / H"
+    },
+    {
+      "battleId": "172997090729428",
+      "decodedAt": "2026-10-21T22:56:38.952551+00:00",
+      "bytes": 2873903,
+      "sha256": "a93a46ab0dfd5e71f3e5d09bb54941d514c0a946450f2f119003c5cdb85c4b00",
+      "path": "reports/172997090729428.json",
+      "title": "Ace67 / Assault vs Sahalpaga / Rorona"
+    },
+    {
+      "battleId": "172997090729459",
+      "decodedAt": "2026-10-21T22:58:12.285653+00:00",
+      "bytes": 2913363,
+      "sha256": "a28352060536b8274a8d89771b3fd92b5fe9cd9f601a4f5f6e7d2b72c3513aed",
+      "path": "reports/172997090729459.json",
+      "title": "Ace68 / Assault vs Darkness Rising / Fleet 1"
+    },
+    {
+      "battleId": "172997090729858",
+      "decodedAt": "2026-10-21T22:58:05.920221+00:00",
+      "bytes": 2898289,
+      "sha256": "24a5924bcb4fe41d4617148b3c9fcb40c4be649e6d338b1f8c8f46db3bac3ec3",
+      "path": "reports/172997090729858.json",
+      "title": "Ace68 / Assault vs Merwise / Aux"
+    },
+    {
+      "battleId": "172997090730744",
+      "decodedAt": "2026-10-21T22:56:44.763073+00:00",
+      "bytes": 2488203,
+      "sha256": "af7c7854a92917514d561fb4939ce49a0566bc01637ee7e0145d7bc90335e05c",
+      "path": "reports/172997090730744.json",
+      "title": "Ace67 / Super Tank vs Lightside / L"
     }
   ]
 }
